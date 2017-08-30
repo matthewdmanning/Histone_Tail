@@ -1,0 +1,13 @@
+# Log started on 08/23/2017 [mm/dd/yyyy] at 13:44:34
+# Command line arguments: h4_8a.prmtop
+# Loaded topologies: h4_8a.prmtop
+printLJMatrix
+printLJTypes
+help
+print LJMatrix ZZ
+printLJMatrix ZZ
+printLJMatrix ZZ|*
+printLJMatrix @%ZZ
+list
+help
+quit
