@@ -1,0 +1,29 @@
+parm H4-Tip3P-FF10-Orgina-HM.top 
+
+trajin H4-Tip3P-FF10-Orgina-HM.prod1.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod2.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod3.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod4.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod5.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod6.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod7.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod8.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod9.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod10.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod11.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod12.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod13.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod14.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod15.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod16.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod17.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod18.traj
+trajin H4-Tip3P-FF10-Orgina-HM.prod19.traj
+
+
+
+
+strip :WAT 
+strip :Na+
+strip :Cl-
+radgyr out ROG-H4-Tip3P-Orginal.dat

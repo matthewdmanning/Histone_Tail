@@ -1,0 +1,4 @@
+ parm H4-OPC-FF10-OHm.top 
+trajin H4-OPC-FF10-OHm.prod103.traj 1 last 1
+strip :WAT,Na+,Cl-
+trajout 103.pqr pdb dumpq multi
