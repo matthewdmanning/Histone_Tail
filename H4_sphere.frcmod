@@ -1,0 +1,28 @@
+Modified Force-fiedld for H4 histone tail tethered to "repulsive" sphere: Include non-bonded parameters for beta carbon of amino acids.
+MASS
+ZZ    250.000
+
+BOND
+CT-ZZ   37.87   2.650                 Cummings recalculated from Morse
+ZZ-ZZ  303.84   2.828
+
+ANGLE
+N-CT-ZZ    11.600      99.500         R. Henda, AlChE Journal 46(2000)1275
+HC-CT-ZZ   11.600      99.500 
+ZZ-ZZ-CT    0.0        90.0
+ZZ-ZZ-ZZ    0.0         0.0
+HC-CT-N	   50.0  	  109.50
+          
+DIHE
+ZZ-ZZ-ZZ-CT    0.0      0.0
+ZZ-ZZ-CT-N     0.0      0.0
+ZZ-ZZ-CT-HC    0.0      0.0
+ZZ-ZZ-ZZ-ZZ    0.0      0.0
+
+IMPROPER
+
+NONBOND
+ZZ     2.828 0.0097
+
+
+
